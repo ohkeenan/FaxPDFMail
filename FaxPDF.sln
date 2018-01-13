@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaxPDFService", "FaxPDF\FaxPDFService.csproj", "{BFA1F326-4D33-4A04-BD88-53F15B34B2EF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FaxPDFSetup", "FaxPDFSetup\FaxPDFSetup.vdproj", "{9093895C-15A0-4979-A938-172A5849FE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA1F326-4D33-4A04-BD88-53F15B34B2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA1F326-4D33-4A04-BD88-53F15B34B2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA1F326-4D33-4A04-BD88-53F15B34B2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA1F326-4D33-4A04-BD88-53F15B34B2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9093895C-15A0-4979-A938-172A5849FE5E}.Debug|Any CPU.ActiveCfg = Debug
+		{9093895C-15A0-4979-A938-172A5849FE5E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F8BC5A-9A65-4B73-8782-F61FF81B2452}
+	EndGlobalSection
+EndGlobal
